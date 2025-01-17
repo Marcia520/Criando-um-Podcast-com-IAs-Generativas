@@ -3,7 +3,7 @@
 <p align="center">
 <img 
     src="assets/powerw.png"
-    width="300"
+    width="400"
 />
 </p>
 
@@ -36,7 +36,7 @@
 - Chatgpt gerou o Roteiro do PodCast
 - Leonardo. AI gerou as imagens
 - Audio gerado pela elevenLabs
-- Audacity editar aúdio
+- Audacity editou o aúdio
 
 ## Materiais
 
