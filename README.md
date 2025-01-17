@@ -15,7 +15,8 @@
   https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloudEdit.mp3
 
  > Repositório desenvolvido durante o BootCamp - CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
->  Geração de um PodCast através de Inteligência Artificial, usando Prompts.
+
+> Geração de um PodCast através de Inteligência Artificial, usando Prompts.
 
 
 ## Tecnologias utilizadas no projeto - Prompts e Edição
