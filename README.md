@@ -9,9 +9,27 @@
 ## Nebulosa Tech - O Futuro no Ar
 ### Ouça o PosCast!
 
-    <audio controls>
-    <source src="https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/output/PodcastCloudEdit.mp3" type="audio/mp3">
-</audio>
+   <!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ouça o Podcast</title>
+    <style>
+        /* Centralizando o conteúdo */
+        .center-content {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Centralizando o áudio -->
+    <div class="center-content">
+        <audio src="https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloud.mp3" controls title="Ouça o Podcast"></audio>
+    </div>
+</body>
+</html>
+
 
 
  > Repositório desenvolvido durante o BootCamp - CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
