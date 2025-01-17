@@ -10,6 +10,7 @@
 ### Ouça o PosCast!
 
   https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloud.mp3
+  
   https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloudEdit.mp3
 
  > Repositório desenvolvido durante o BootCamp - CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
@@ -37,18 +38,7 @@
 - [Editor de áudio](https://www.audacityteam.org/)
 - Imagens utilizadas em `assets`
 - Podcast gerado durante as aulas em `output`
-- Roteiro está em 'prompts'
-
-## Como Executar
-
-Além dos prompts acima nas ferramentas sugeridas para gerar o material base, utilize uma ferramenta de edição de documentos como power point,ou outro programa de edição.
-
-- 1. Use os prompts de roteiro no `chagpt`
-- 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 3. Use os prompts de artes no `midjourney`
-
-
-
+- Roteiro está em `prompts`
 
 
 ## Estudante
