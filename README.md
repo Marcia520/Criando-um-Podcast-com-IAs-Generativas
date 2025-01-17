@@ -6,33 +6,46 @@
 </p>
 
 # Podcast gerado por I.A.s
+## Nebulosa Tech - O Futuro no Ar
+### Ouça o PosCast!
 
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nebulosa Tech - O Futuro no Ar</title>
-</head>
-<body>
-    <h1>Ouça o PosCast!</h1>
-
-    <!-- Reprodutor de Áudio -->
     <audio controls>
-        <source src="https://github.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/raw/main/PodcastCloudEdit.mp3" type="audio/mp3">
-        Seu navegador não suporta o elemento de áudio.
-    </audio>
-</body>
-</html>
+    <source src="https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/output/PodcastCloudEdit.mp3" type="audio/mp3">
+</audio>
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > Repositório desenvolvido durante o BootCamp - CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
+>  Geração de um PodCast através de Inteligência Artificial, usando Prompts.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+## Tecnologias utilizadas no projeto
 
-## 💻 Tecnologias utilizadas no projeto
+<p>
+    <img 
+      align=left 
+    src=".github/assets/gpt.png"
+    width="20"  
+/>
+</p>
+
+ [ChatGPT](https://chat.openai.com/) 
+
+  <p>
+    <img 
+      align=left 
+    src=".github/assets/ppt.png"
+    width="20"  
+/>
+</p>
+
+ [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+ 
+ [Leonardo.AI](https://app.leonardo.ai/image-generation)
+
+## Prompts
+
+ChatGPT：
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
