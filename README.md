@@ -1,15 +1,16 @@
+# Podcast gerado por I.A.s
+
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="assets/powerw.png"
     width="300"
 />
 </p>
 
-# Podcast gerado por I.A.s
-## Nebulosa Tech - O Futuro no Ar
-### Ouça o PosCast!
+### Ouça o PosCast: Nebulosa Tech - O Futuro no Ar!
 
   https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloud.mp3
+  
   
   https://raw.githubusercontent.com/Marcia520/Criando-um-Podcast-com-IAs-Generativas/main/output/PodcastCloudEdit.mp3
 
